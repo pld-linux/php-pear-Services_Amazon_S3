@@ -8,12 +8,12 @@
 Summary:	%{_pearname} - PHP interface to Amazon S3's API
 Summary(pl.UTF-8):	%{_pearname} - interfejs PHP do API Amazon S3
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
-Release:	2
+Version:	0.4.0
+Release:	1
 License:	New BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	9d98696b3bf3155f8e0fa351dbf984c2
+# Source0-md5:	dd748d0d2466d1ce5b78a5d50a47c80c
 URL:		http://pear.php.net/package/Services_Amazon_S3/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
