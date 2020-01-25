@@ -1,6 +1,5 @@
 # ToDo:
 # - beutify pl description
-%include	/usr/lib/rpm/macros.php
 %define		_class		Services
 %define		_subclass	Amazon_S3
 %define		_status		alpha
